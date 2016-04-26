@@ -5558,7 +5558,7 @@ input[type="text"],input[type="email"],input[type="search"],textarea {
 
 @media (min-width: 768px) {
     .portfolio-slider-image,.home-slider-image {
-        height:700px
+        height:1200px
     }
 }
 
